@@ -3,5 +3,9 @@
     "description": "",
     "author": "Alexandre Vicenzi",
     "language": "en",
+    "variables": {
+        "python_version_major": "3",
+        "python_version_minor": "7"
+    },
     "gitbook": ">=3.2.0"
 }

@@ -2,11 +2,11 @@
 
 * [The Project](README.md)
 
-* [Introduction]()
-    * [About this book]()
-    * [About the author]()
+* [Introduction](intro/README.md)
+    * [About this book](intro/about.md)
+    * [About the author](intro/author.md)
 
-* [Chapter 1 - The Basics]()
+* [Chapter 1 - The Basics](chapter-01/README.md)
     * [Flow Control]()
     * [Classes]()
     * [Inheritance]()
@@ -15,7 +15,7 @@
     * [String Formatting]()
     * [Slicing Syntax]()
 
-* [Chapter 2 - Dive Into Python]()
+* [Chapter 2 - Dive Into Python](chapter-02/README.md)
     * [Lambda Functions]()
     * [Argument Unpacking]()
     * [Decorators]()
